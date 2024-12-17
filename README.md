@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gargi-S24
+- 👋 Hi, I’m @GARGI2205
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on ...
